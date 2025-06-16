@@ -1,4 +1,4 @@
-# News+ Project
+#FYI.
 
 ## Overview
 News+ is a Python-based platform for news aggregation, summarization, and analysis. It features:
